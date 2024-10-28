@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeliveryService.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "DeliveryService.Library": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryService.ConsoleApp.dll": {}
+        }
+      },
+      "DeliveryService.Library/1.0.0": {
+        "runtime": {
+          "DeliveryService.Library.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryService.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryService.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

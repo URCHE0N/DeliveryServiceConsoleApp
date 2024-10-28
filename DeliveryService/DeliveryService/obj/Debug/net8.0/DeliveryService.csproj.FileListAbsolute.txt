@@ -1,0 +1,14 @@
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\bin\Debug\net8.0\DeliveryService.exe
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\bin\Debug\net8.0\DeliveryService.deps.json
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\bin\Debug\net8.0\DeliveryService.runtimeconfig.json
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\bin\Debug\net8.0\DeliveryService.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\bin\Debug\net8.0\DeliveryService.pdb
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.AssemblyInfoInputs.cache
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.AssemblyInfo.cs
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.csproj.CoreCompileInputs.cache
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\refint\DeliveryService.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.pdb
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\DeliveryService.genruntimeconfig.cache
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService\obj\Debug\net8.0\ref\DeliveryService.dll

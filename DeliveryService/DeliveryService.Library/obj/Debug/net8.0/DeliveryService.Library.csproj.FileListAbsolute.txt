@@ -1,0 +1,11 @@
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\bin\Debug\net8.0\DeliveryService.Library.deps.json
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\bin\Debug\net8.0\DeliveryService.Library.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\bin\Debug\net8.0\DeliveryService.Library.pdb
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.AssemblyInfoInputs.cache
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.AssemblyInfo.cs
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.csproj.CoreCompileInputs.cache
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\refint\DeliveryService.Library.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.pdb
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\ref\DeliveryService.Library.dll

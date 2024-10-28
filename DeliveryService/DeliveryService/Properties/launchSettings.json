@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeliveryService.ConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)/DeliveryService"
+    }
+  }
+}

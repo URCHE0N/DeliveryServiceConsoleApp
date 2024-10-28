@@ -1,0 +1,4 @@
+_cityDistrict=Центр
+_firstDeliveryTime=2024-10-20 14:00:00
+_deliveryLog=Logs/log.txt
+_deliveryOrder=Result/filteredOrders.txt
