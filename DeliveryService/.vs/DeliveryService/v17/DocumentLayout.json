@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice\\result\\filteredorders.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|solutionrelative:deliveryservice\\result\\filteredorders.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|solutionrelative:deliveryservice\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|solutionrelative:deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.library\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|solutionrelative:deliveryservice.library\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{728411CD-90D0-41BF-B9AF-920DB5454BEB}|DeliveryService.Tests\\DeliveryService.Tests.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728411CD-90D0-41BF-B9AF-920DB5454BEB}|DeliveryService.Tests\\DeliveryService.Tests.csproj|solutionrelative:deliveryservice.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.library\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|solutionrelative:deliveryservice.library\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3782E112-A7FC-4AC3-B7B0-B54AA4889447}|DeliveryService\\DeliveryService.ConsoleApp.csproj|solutionrelative:deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.library\\services\\errorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|solutionrelative:deliveryservice.library\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.library\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|solutionrelative:deliveryservice.library\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.library\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8866446-B395-42B6-8E31-84C70134B63B}|DeliveryService.Library\\DeliveryService.Library.csproj|solutionrelative:deliveryservice.library\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728411CD-90D0-41BF-B9AF-920DB5454BEB}|DeliveryService.Tests\\DeliveryService.Tests.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\deliveryserviceconsoleapp\\deliveryservice\\deliveryservice.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728411CD-90D0-41BF-B9AF-920DB5454BEB}|DeliveryService.Tests\\DeliveryService.Tests.csproj|solutionrelative:deliveryservice.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "filteredOrders.txt",
-              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService\\Result\\filteredOrders.txt",
-              "RelativeDocumentMoniker": "DeliveryService\\Result\\filteredOrders.txt",
-              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService\\Result\\filteredOrders.txt",
-              "RelativeToolTip": "DeliveryService\\Result\\filteredOrders.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-28T20:41:22.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "log.txt",
-              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService\\Logs\\log.txt",
-              "RelativeDocumentMoniker": "DeliveryService\\Logs\\log.txt",
-              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService\\Logs\\log.txt",
-              "RelativeToolTip": "DeliveryService\\Logs\\log.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-28T20:40:39.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "OrderTests.cs",
               "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Tests\\OrderTests.cs",
               "RelativeDocumentMoniker": "DeliveryService.Tests\\OrderTests.cs",
@@ -88,49 +54,36 @@
               "RelativeToolTip": "DeliveryService.Tests\\OrderTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:02:04.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T18:02:04.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "DeliveryService.Library\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\OrderService.cs",
-              "RelativeToolTip": "DeliveryService.Library\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T16:17:47.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Models\\Order.cs",
               "RelativeDocumentMoniker": "DeliveryService.Library\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Models\\Order.cs",
               "RelativeToolTip": "DeliveryService.Library\\Models\\Order.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T16:15:19.931Z"
+              "WhenOpened": "2024-10-28T16:15:19.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AppConfig.cs",
               "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Models\\AppConfig.cs",
               "RelativeDocumentMoniker": "DeliveryService.Library\\Models\\AppConfig.cs",
               "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Models\\AppConfig.cs",
               "RelativeToolTip": "DeliveryService.Library\\Models\\AppConfig.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAtwEoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowCwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T16:16:02.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LogService.cs",
               "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\LogService.cs",
               "RelativeDocumentMoniker": "DeliveryService.Library\\Services\\LogService.cs",
@@ -142,15 +95,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ErrorService.cs",
               "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\ErrorService.cs",
               "RelativeDocumentMoniker": "DeliveryService.Library\\Services\\ErrorService.cs",
               "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\ErrorService.cs",
               "RelativeToolTip": "DeliveryService.Library\\Services\\ErrorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T16:37:10.7Z"
+              "WhenOpened": "2024-10-28T16:37:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DeliveryService.Library\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService.Library\\Services\\OrderService.cs",
+              "RelativeToolTip": "DeliveryService.Library\\Services\\OrderService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAlwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:17:47.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,7 +127,7 @@
               "RelativeDocumentMoniker": "DeliveryService\\Program.cs",
               "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\DeliveryServiceConsoleApp\\DeliveryService\\DeliveryService\\Program.cs",
               "RelativeToolTip": "DeliveryService\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAtwFkAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:50:43.798Z",
               "EditorCaption": ""

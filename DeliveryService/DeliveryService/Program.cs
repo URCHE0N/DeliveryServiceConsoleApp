@@ -7,6 +7,18 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Консольное приложение для службы доставки\n");
+
+        Console.WriteLine("Вывести список не отсортированных заказов? Y/n");
+        string? listOrderCheck = Console.ReadLine();
+        if (listOrderCheck == "Y" || listOrderCheck == "y")
+        {
+            OrderService.DisplayListOrder("Data/orders.txt");
+
+            Console.WriteLine("\nДля перехода дальше, нажмите Enter...");
+            Console.ReadLine();
+        }
+        Console.Clear();
+
         Console.WriteLine("Выберите пункт (введите только цифру):");
         Console.WriteLine("1) Провести фильтрацию заказов через конфиг файл");
         Console.WriteLine("2) Ввести данные для фильтрации заказов");
@@ -21,7 +33,7 @@ internal class Program
                 Console.WriteLine("Фильтрация заказов через параметры в конфиг файле.\n");
                 LogService.Logger($"Фильтрация по параметрам из конфиг файла. Район: {config.CityDistrict}. " +
                     $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
-                ConfigFilterOrders();
+                OrderService.ConfigFilterOrders(config);
                 break;
 
             case "2":
@@ -69,39 +81,15 @@ internal class Program
                 }
                 LogService.Logger($"Фильтрация по введенным параметрам. Район: {config.CityDistrict}. " +
                     $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
-                ConfigFilterOrders();
+                OrderService.ConfigFilterOrders(config);
                 break;
 
             default:
-                Console.WriteLine("Ничего не было введено. По стандарту: фильтрация заказов через параметры в конфиг файле.\n");
+                Console.WriteLine("Ничего не было введено или другие значения. По стандарту: фильтрация заказов через параметры в конфиг файле.\n");
                 LogService.Logger($"Фильтрация по параметрам из конфиг файла. Район: {config.CityDistrict}. " +
                     $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
-                ConfigFilterOrders();
+                OrderService.ConfigFilterOrders(config);
                 break;
         };
-
-        void ConfigFilterOrders()
-        {
-            try
-            {
-                if (string.IsNullOrEmpty(config.CityDistrict) || config.FirstDeliveryTime == default)
-                {
-                    ErrorService.ErrorNotification("Ошибка в параметрах фильтрации!");
-                    return;
-                }
-
-                var orders = OrderService.ReadOrdersFromFile("Data/orders.txt");
-                var filteredOrders = OrderService.FilterOrders(orders, config.CityDistrict, config.FirstDeliveryTime);
-
-                OrderService.WriteOrdersToFile(filteredOrders, config.DeliveryOrder);
-                LogService.Logger("Фильтрация завершена", config.DeliveryLog);
-                Console.WriteLine("Фильтрация завершена. Нажмите любую кнопку для завершения...");
-                Console.ReadLine();
-            }
-            catch (Exception ex)
-            {
-                ErrorService.ErrorNotification($"Ошибка: {ex.Message}");
-            }
-        }
     }
 }

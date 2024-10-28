@@ -41,5 +41,60 @@ namespace DeliveryService.Library.Services
                 }
             }
         }
+
+        public static void ConfigFilterOrders(AppConfig config)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(config.CityDistrict) || config.FirstDeliveryTime == default)
+                {
+                    ErrorService.ErrorNotification("Ошибка в параметрах фильтрации!");
+                    return;
+                }
+
+                var orders = ReadOrdersFromFile("Data/orders.txt");
+                var filteredOrders = FilterOrders(orders, config.CityDistrict, config.FirstDeliveryTime);
+
+                WriteOrdersToFile(filteredOrders, config.DeliveryOrder);
+                LogService.Logger("Фильтрация завершена", config.DeliveryLog);
+                Console.WriteLine("Фильтрация завершена.\n");
+
+                Console.WriteLine("Вывести список отсортированных заказов? Отказ завершит программу... Y/n");
+                string? listOrderCheck = Console.ReadLine();
+                if (listOrderCheck == "Y" || listOrderCheck == "y")
+                {
+                    DisplayListOrder(config.DeliveryOrder);
+
+                    Console.WriteLine("\nДля завершения, нажмите Enter...");
+                    Console.ReadLine();
+                }
+            }
+            catch (Exception ex)
+            {
+                ErrorService.ErrorNotification($"Ошибка: {ex.Message}");
+            }
+        }
+
+        public static void DisplayListOrder(string filePath)
+        {
+            Console.Clear();
+            Console.WriteLine("Список заказов (id,вес,район,дата):");
+
+            try
+            {
+                using (StreamReader reader = new StreamReader(filePath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                ErrorService.ErrorNotification($"Ошибка: {ex.Message}");
+            }
+        }
     }
 }

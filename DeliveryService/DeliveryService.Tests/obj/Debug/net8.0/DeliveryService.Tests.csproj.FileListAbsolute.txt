@@ -110,3 +110,4 @@ C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleA
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Tests\bin\Debug\net8.0\Data\orders.txt
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Tests\bin\Debug\net8.0\Logs\log.txt
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Tests\bin\Debug\net8.0\Result\filteredOrders.txt
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Tests\obj\Debug\net8.0\DeliveryService.Tests.sourcelink.json

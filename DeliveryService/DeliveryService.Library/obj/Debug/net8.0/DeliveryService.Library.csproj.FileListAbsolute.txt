@@ -9,3 +9,4 @@ C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleA
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\refint\DeliveryService.Library.dll
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.pdb
 C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\ref\DeliveryService.Library.dll
+C:\Users\Yashnov\Desktop\ErrAr\всякое\Работа\DeliveryServiceConsoleApp\DeliveryService\DeliveryService.Library\obj\Debug\net8.0\DeliveryService.Library.sourcelink.json
