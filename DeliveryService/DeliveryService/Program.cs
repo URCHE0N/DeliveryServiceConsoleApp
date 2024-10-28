@@ -19,6 +19,8 @@ internal class Program
         {
             case "1":
                 Console.WriteLine("Фильтрация заказов через параметры в конфиг файле.\n");
+                LogService.Logger($"Фильтрация по параметрам из конфиг файла. Район: {config.CityDistrict}. " +
+                    $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
                 ConfigFilterOrders();
                 break;
 
@@ -65,11 +67,15 @@ internal class Program
                         Console.WriteLine("");
                     }
                 }
+                LogService.Logger($"Фильтрация по введенным параметрам. Район: {config.CityDistrict}. " +
+                    $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
                 ConfigFilterOrders();
                 break;
 
             default:
                 Console.WriteLine("Ничего не было введено. По стандарту: фильтрация заказов через параметры в конфиг файле.\n");
+                LogService.Logger($"Фильтрация по параметрам из конфиг файла. Район: {config.CityDistrict}. " +
+                    $"Дата и время: c {config.FirstDeliveryTime} по {config.FirstDeliveryTime.AddMinutes(30)}", config.DeliveryLog);
                 ConfigFilterOrders();
                 break;
         };
